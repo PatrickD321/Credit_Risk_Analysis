@@ -1,4 +1,3 @@
-![fig13](https://user-images.githubusercontent.com/78861458/121823654-ae735a00-cc74-11eb-8b0c-e76533593588.png)
 # Credit Risk Analysis
 
 ## Overview of the analysis
