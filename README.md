@@ -55,6 +55,11 @@
     - An imbalanced classification report has been generated  
     
       ![fig9](https://user-images.githubusercontent.com/78861458/121823041-b3360f00-cc70-11eb-8f9e-71f64c16b25f.png)
+      
+      ## Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk
+      
+      ### BalancedRandomForestClassifier
+        - An accuracy score for the model is calculated
 
 
 
