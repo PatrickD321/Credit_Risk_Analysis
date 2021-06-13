@@ -65,9 +65,29 @@
            
       - A confusion matrix has been generated  
       
-        ![fig10](https://user-images.githubusercontent.com/78861458/121823281-458ae280-cc72-11eb-8c1e-c73e26b56c03.png)  
-           
-        - An imbalanced classification report has been generated 
+        ![fig10](https://user-images.githubusercontent.com/78861458/121823281-458ae280-cc72-11eb-8c1e-c73e26b56c03.png) 
+        
+      - An imbalanced classification report has been generated 
+      
+        ![fig11](https://user-images.githubusercontent.com/78861458/121823472-6e5fa780-cc73-11eb-8074-d95977f01bbe.png)  
+        
+      - The features are sorted in descending order by feature 
+
+ 
+      
+        
+
+      
+        
+
+
+      
+      
+        
+
+      
+        
+
         
 
           
