@@ -13,7 +13,7 @@
       
   - A confusion matrix has been generated  
       RandomOverSampler -  ![fig1](https://user-images.githubusercontent.com/78861458/121821803-5e42ca80-cc69-11eb-8953-fc477847f947.png)  
-      SMOTE - ![fig2](https://user-images.githubusercontent.com/78861458/121821944-3b64e600-cc6a-11eb-9820-458ea59c145f.png)  
+      SMOTE - ![fig2](https://user-images.githubusercontent.com/78861458/121822084-263c8700-cc6b-11eb-806e-d2c8fb47f6b4.png)  
       ClusterCentroids - ![fig3](https://user-images.githubusercontent.com/78861458/121822011-a9a9a880-cc6a-11eb-88a2-25cf8e5f46a4.png)
 
 
