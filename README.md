@@ -14,7 +14,20 @@
   - A confusion matrix has been generated  
       RandomOverSampler -  ![fig1](https://user-images.githubusercontent.com/78861458/121821803-5e42ca80-cc69-11eb-8953-fc477847f947.png)  
       SMOTE - ![fig2](https://user-images.githubusercontent.com/78861458/121822084-263c8700-cc6b-11eb-806e-d2c8fb47f6b4.png)  
-      ClusterCentroids - ![fig3](https://user-images.githubusercontent.com/78861458/121822011-a9a9a880-cc6a-11eb-88a2-25cf8e5f46a4.png)
+      ClusterCentroids - ![fig3](https://user-images.githubusercontent.com/78861458/121822011-a9a9a880-cc6a-11eb-88a2-25cf8e5f46a4.png)  
+      
+  - An imbalanced classification report has been generated  
+    RandomOverSampler 
+    ![fig4](https://user-images.githubusercontent.com/78861458/121822221-e88c2e00-cc6b-11eb-8a16-da1a2ed1d1ef.png)  
+    
+    SMOTE
+    ![fig5](https://user-images.githubusercontent.com/78861458/121822288-4fa9e280-cc6c-11eb-9a33-d03d7c64671f.png)  
+    
+    ClusterCentroids
+    ![fig7](https://user-images.githubusercontent.com/78861458/121822480-48cf9f80-cc6d-11eb-9466-8c14d6015689.png)
+
+
+
 
 
       
