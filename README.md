@@ -57,7 +57,7 @@
       ![fig9](https://user-images.githubusercontent.com/78861458/121823041-b3360f00-cc70-11eb-8f9e-71f64c16b25f.png)
       
      ## Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk  
-       imblearn.ensemble library will be use to train and compare two different ensemble classifiers. Ensamble Classifiers are Ensemble learning helps improve machine learning results by combining several models. This approach allows the production of better predictive performance compared to a single model
+       Imblearn.ensemble library will be use to train and compare two different ensemble classifiers. Ensemble learning helps improve machine learning results by combining several models algorithms. This approach allows the production of better predictive performance compared to a single model
       
       BalancedRandomForestClassifier  
       
