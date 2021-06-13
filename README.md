@@ -8,7 +8,9 @@
   - An accuracy score for the model is calculated  
       RandomOverSampler - 0.6605446354972261  
       SMOTE - 0.6546563712732358
-      ClusterCentroids - 0.5443246441108096  
+      ClusterCentroids - 0.5443246441108096 
+      
+      
       
   - A confusion matrix has been generated  
       RandomOverSampler -  ![fig1](https://user-images.githubusercontent.com/78861458/121821803-5e42ca80-cc69-11eb-8953-fc477847f947.png)
