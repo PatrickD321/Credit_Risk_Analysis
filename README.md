@@ -1,3 +1,4 @@
+![fig13](https://user-images.githubusercontent.com/78861458/121823654-ae735a00-cc74-11eb-8b0c-e76533593588.png)
 # Credit Risk Analysis
 
 ## Overview of the analysis
@@ -72,6 +73,25 @@
         ![fig11](https://user-images.githubusercontent.com/78861458/121823472-6e5fa780-cc73-11eb-8074-d95977f01bbe.png)  
         
       - The features are sorted in descending order by feature 
+
+        ![fig13](https://user-images.githubusercontent.com/78861458/121823667-c64ade00-cc74-11eb-932a-a0f223e00419.png)
+        
+       
+      EasyEnsembleClassifier
+      
+      - An accuracy score of the model is calculated  
+         0.9252448999275931
+
+      - A confusion matrix has been generated  
+      
+        ![fig14](https://user-images.githubusercontent.com/78861458/121823786-702a6a80-cc75-11eb-8505-a8c3122a4db5.png)  
+        
+       - An imbalanced classification report has been generated  
+       
+         ![fig15](https://user-images.githubusercontent.com/78861458/121823839-bed80480-cc75-11eb-8995-6a39b23d6d06.png)
+
+
+
 
  
       
