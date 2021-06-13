@@ -7,5 +7,9 @@
   Using Pandas and our knowledge of of the imbalanced-learn and scikit-learn libraries, the three machine learning models were evaluated by using resampling to determine which is better at predicting credit risk. The credit_risk_resampling.ipynb script produce the results as follows:
   - An accuracy score for the model is calculated  
       RandomOverSampler - 0.6605446354972261  
-      SMOTE - 0.6546563712732358  
-      ClusterCentroids - 0.6546563712732358  
+      SMOTE - 0.6546563712732358
+      ClusterCentroids - 0.5443246441108096  
+      
+  - A confusion matrix has been generated  
+      RandomOverSampler -  array([[   69,    32],  
+                                [ 6193, 10911]], dtype=int64)  
