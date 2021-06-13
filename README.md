@@ -11,5 +11,5 @@
       ClusterCentroids - 0.5443246441108096  
       
   - A confusion matrix has been generated  
-      RandomOverSampler -  array([[   69,    32],  
-                                [ 6193, 10911]], dtype=int64)  
+      RandomOverSampler -  ![fig1](https://user-images.githubusercontent.com/78861458/121821803-5e42ca80-cc69-11eb-8953-fc477847f947.png)
+  
