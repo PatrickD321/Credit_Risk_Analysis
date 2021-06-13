@@ -56,10 +56,28 @@
     
       ![fig9](https://user-images.githubusercontent.com/78861458/121823041-b3360f00-cc70-11eb-8f9e-71f64c16b25f.png)
       
-      ## Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk
+     ## Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk
       
       ### BalancedRandomForestClassifier
-        - An accuracy score for the model is calculated
+      
+        - An accuracy score for the model is calculated  
+           0.7884948995879731  
+        
+        - A confusion matrix has been generated  
+        
+           ![fig10](https://user-images.githubusercontent.com/78861458/121823281-458ae280-cc72-11eb-8c1e-c73e26b56c03.png)  
+           
+        - An imbalanced classification report has been generated 
+        
+
+          
+
+        
+           
+
+
+
+
 
 
 
