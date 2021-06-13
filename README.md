@@ -45,7 +45,20 @@
     
     ## Deliverable 2: Use the SMOTEENN algorithm to Predict Credit Risk
     
-    - An accuracy score for the model is calculated (5 pt)
+    - An accuracy score for the model is calculated 
+       0.6448578411395863 
+       
+    - A confusion matrix has been generated
+      
+      ![fig8](https://user-images.githubusercontent.com/78861458/121822987-59cde000-cc70-11eb-9d8a-53b515aed533.png)
+      
+    - An imbalanced classification report has been generated  
+    
+      ![fig9](https://user-images.githubusercontent.com/78861458/121823041-b3360f00-cc70-11eb-8f9e-71f64c16b25f.png)
+
+
+
+
     
     
 
