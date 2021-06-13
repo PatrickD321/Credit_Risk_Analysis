@@ -3,7 +3,9 @@
 ## Overview of the analysis
   Using accquired basic skill that we just develop in data preparation, statistical reasoning, and machine learning, we will try to analyze a credit card dataset from LendingClub, a peer-to-peer lending services company. Machine learning is the use of statistical algorithms to perform tasks such as learning from data patterns and making predictions. In this real-world situation, we determine the unbalance classification problem between good loans and risky loans that sourrounds the aspect of credit risk. Different number of statical mathematical algorithms will be used to evaluate the dataset in a supervised learning categorory to make vaild predictions. A comparison will made between each of the algorithm that are employed in the analysis.
   
-## Deliverable 1: Use Resampling Models to Predict Credit Risk
+## Results  
+  
+### Deliverable 1: Use Resampling Models to Predict Credit Risk
   Using Pandas and our knowledge of of the imbalanced-learn and scikit-learn libraries, the three machine learning models were evaluated by using resampling to determine which is better at predicting credit risk. The credit_risk_resampling.ipynb script produce the results as follows:
   - An accuracy score for the model is calculated  
       RandomOverSampler - 0.6605446354972261  
@@ -43,7 +45,7 @@
     ![fig7](https://user-images.githubusercontent.com/78861458/121822480-48cf9f80-cc6d-11eb-9466-8c14d6015689.png)
     
     
-    ## Deliverable 2: Use the SMOTEENN algorithm to Predict Credit Risk
+    ###  Deliverable 2: Use the SMOTEENN algorithm to Predict Credit Risk
     
     - An accuracy score for the model is calculated  
         0.6448578411395863 
@@ -56,7 +58,7 @@
     
       ![fig9](https://user-images.githubusercontent.com/78861458/121823041-b3360f00-cc70-11eb-8f9e-71f64c16b25f.png)
       
-     ## Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk  
+     ###  Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk  
        Imblearn.ensemble library will be use to train and compare two different ensemble classifiers. Ensemble learning helps improve machine learning results by combining several models algorithms. This approach allows the production of better predictive performance compared to a single model
       
       BalancedRandomForestClassifier  
