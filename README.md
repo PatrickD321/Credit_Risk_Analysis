@@ -92,7 +92,9 @@
        
          ![fig15](https://user-images.githubusercontent.com/78861458/121823839-bed80480-cc75-11eb-8995-6a39b23d6d06.png)
          
-       ## Summary  
+       ## Summary 
+       
+       In credit risk situations, sensitivity of detecting high risk candidates than how accurately the algorithm used to determine transactions are at this level of risk. The        models used in deliverable 1, the modles 
        Summary: Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
 
 
