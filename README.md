@@ -94,7 +94,7 @@
          
        ## Summary 
        
-       In credit risk situations, sensitivity of detecting high risk candidates than how accurately the algorithm used to determine transactions are at this level of risk. The        models used in deliverable 1, the modles 
+       In credit risk situations, sensitivity of detecting high risk candidates than how accurately the algorithm used to determine transactions are at this level of risk. The        models used in deliverable 1 all show a reasonable amount of accuracy (precision) and sesitivity with the SMOTE algoritm returning the highest values of all three. , the modles 
        Summary: Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
 
 
