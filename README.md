@@ -94,8 +94,9 @@
          
        ## Summary 
        
-       In credit risk situations, sensitivity of detecting high risk candidates than how accurately the algorithm used to determine transactions are at this level of risk. The        models used in deliverable 1 all show a reasonable amount of accuracy (precision) and sesitivity with the SMOTE algoritm returning the highest values of all three. F1 results for the imbalance  , the modles 
-       Summary: Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
+       In credit risk situations, sensitivity of the model is more important than how accurately (precision) the algorithms used to determine transactions are at the risk              level. The models used in deliverable 1 all show a reasonable amount of accuracy (precision) and sesitivity for predicting low risk candidates, but precision values for high risk in all three models are low, with the SMOTE algoritm returning the highest values of all three. F1 score is a determination of the imbalance between precision and sesitivity, low scores prove that there are imbalances and high F1 scores indicates there are far less imbalances. The three models have low F1 scores for high risk detection but reasonable results for low risk, this was seen in the imbalanced classification report. Low F1 scores in high risk transaction shows that models is not doing a good job of determining accurately transaction that are high risk which will issuse to adequatly predict candidates who will may or may not be delinquent with their accounts. 
+       SMOTEENN used in Deliverable 2, combines the SMOTE and Edited Nearest Neighbors (ENN) algorithms. ENN is if the two nearest neighbors of a data point belong to two different classes, that data point is dropped. Results in SMOTEENN models gave similar results as the models in deliverable 1, This model offer no improvement in analyzing the dataset.   
+       Summary: Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning., 
 
 
 
